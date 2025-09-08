@@ -15,6 +15,16 @@ The game includes:
 - C#
 
 # Photos:
-
+https://drive.google.com/file/d/15aaIKnK94IQcvoldy0pp10FvOGe7Bbl0/view?usp=sharing
 
 # How to play:
+- The download is not yet available.
+- Buttons:
+Movement - Arrows/ADWS
+Jump - Spacebar
+Look - Mouse
+Shoot - Left Mouse Button
+Create Obstacle - Right Mouse Button
+Switch 'Weapons' - Numbers at the top of the keyboard or E/Q
+Change 'Bullet' in Weapon - F
+View Entire Map - C
